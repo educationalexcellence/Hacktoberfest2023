@@ -1,0 +1,4 @@
+// Create a function
+void myFunction() {
+  printf("I just got executed!");
+}
